@@ -21,7 +21,7 @@
 title: Assignment Week 3
 email: nguyenlonghai21700@gmail.com
 baseurl: "/BTVN_3" 
-url: "/BTVN_3" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hi-Long
 
 # Build settings
