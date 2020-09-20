@@ -20,8 +20,8 @@
 
 title: Assignment Week 3
 email: nguyenlonghai21700@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://hi-long.github.io/BTVN_3" 
+url: "https://hi-long.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hi-Long
 
 # Build settings
